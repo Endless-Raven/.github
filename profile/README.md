@@ -2,6 +2,8 @@
 
 <h3 align="center" >Seamless Solutions, Endless Innovation.</h3>
 
+---
+
 # Endless-Raven Development Hub
 
 Welcome to the Endless-Raven Development Hub on GitHub! This organization serves as a central repository for all our open-source projects, tools, and resources.
