@@ -2,8 +2,7 @@
 
 <p align="center" ><img  src = "Endless-Raven-banner.png?raw=true" width = 1000px></p>
 
-# Vision
-Seamless Solutions, Endless Innovation.
+<h3 align="center" >Seamless Solutions, Endless Innovation.</h3>
 
 # Endless-Raven Development Hub
 
