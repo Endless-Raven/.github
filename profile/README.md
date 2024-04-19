@@ -24,7 +24,9 @@ We welcome contributions from the community! Whether you're a developer, designe
 - **Issue Tracking:** Report bugs, suggest features, or share your ideas by creating GitHub issues.
 - **Documentation:** Help improve our documentation by fixing typos, clarifying instructions, or adding examples.
 
-Please review our [Contribution Guidelines](CONTRIBUTING.md) before contributing.
+## Terms & Conditions
+
+Please review our [Terms & Conditions](TERMS.md) before contributing.
 
 ## Contact Us
 
