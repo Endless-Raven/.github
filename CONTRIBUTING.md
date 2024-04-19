@@ -1,4 +1,4 @@
-### Endless Raven Terms & Conditions
+### Endless Raven Contribution Guidelines
 
 -
 -
