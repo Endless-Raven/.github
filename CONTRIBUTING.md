@@ -1,6 +1,0 @@
-### Endless Raven Contribution Guidelines
-
--
--
--
--
