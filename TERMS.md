@@ -31,4 +31,4 @@
 -Endless Raven IT Company reserves the right to update or modify these Terms and Conditions at any time without prior notice. Any changes will be effective immediately upon posting on our website. It is your responsibility to review these terms periodically for updates.
 
 ### Contact Us
-- If you have any questions or concerns about these Terms and Conditions, please contact us at [Contact Information].
+- If you have any questions or concerns about these Terms and Conditions, please [contact us](mailto:endlessravenonline@gmail.com)
