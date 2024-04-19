@@ -1,4 +1,4 @@
-## Endless Raven Terms and Conditions
+<h1 align="center">Endless Raven Terms and Conditions</h1>
 
 ### Introduction
 - Welcome to Endless Raven IT Company! These Terms and Conditions govern your use of our services, website, and products. By accessing or using any part of our services, you agree to be bound by these Terms and Conditions. If you disagree with any part of the terms, then you may not access our services.
