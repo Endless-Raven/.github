@@ -26,16 +26,10 @@ We welcome contributions from the community! Whether you're a developer, designe
 
 Please review our [Contribution Guidelines](CONTRIBUTING.md) before contributing.
 
-## Code of Conduct
-
-We value an inclusive and welcoming community. All contributors are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
-
 ## Contact Us
 
 If you have any questions, suggestions, or feedback, feel free to reach out to us:
 
 - Email: endlessravenonline@gmail.com
 
-## License
-
-Unless otherwise specified, all projects are licensed under the [MIT License](LICENSE).
+---
