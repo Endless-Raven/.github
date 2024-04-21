@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "Github Banner.jpg?raw=true" width = 1000px></p>
 
-<h3 align="center" >Seamless Solutions, Endless Innovation.</h3>
+<!--<h3 align="center" >Seamless Solutions, Endless Innovation.</h3>-->
 
 ---
 
